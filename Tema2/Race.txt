@@ -1,0 +1,4 @@
+Dwarf +3 constitution
+Elf +3 dexterity
+Gnome +1 strength
+Human +1 all

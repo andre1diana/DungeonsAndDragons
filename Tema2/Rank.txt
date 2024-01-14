@@ -1,0 +1,15 @@
+Barbarian
+strength
+dexterity
+
+Cleric
+intelligence
+constitution
+
+Fighter
+strength 
+constitution
+
+Wizard
+intelligence 
+wisdom

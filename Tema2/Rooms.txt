@@ -1,0 +1,14 @@
+Room1 2
+Book read 10 intelligence
+Door open 9 dexterity
+
+Room2 4
+Beholder fight 5 wisdom
+Chest open 15 charisma
+Torch take 3 strength
+Door open 9 dexterity
+
+Room3 3
+MageTrainer interact 2 intelligence
+Owlbear fight 2 wisdom
+Portal open 10 charisma

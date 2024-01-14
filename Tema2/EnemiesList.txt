@@ -1,0 +1,9 @@
+Aboleth 50
+Beholder 29
+Dragon 13
+Kraken 62
+MindFlayer 20
+Tarasque 25
+Gnoll 30
+Owlbear 35
+Undead 40

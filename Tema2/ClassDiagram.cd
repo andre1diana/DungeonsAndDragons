@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Abilities">
+    <Position X="4.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAwAAEAAAAAIAAAAAAAAQAAAAAAAAAAAgAEAAAAA=</HashCode>
+      <FileName>Abilities.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Action">
+    <Position X="10" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAQAAAAAAAAEAAAAAACAAAAAAAAAQ=</HashCode>
+      <FileName>Action.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Character">
+    <Position X="6" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAABAAAAFAABAAAAABAAAKAQ=</HashCode>
+      <FileName>Character.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerBuilder">
+    <Position X="3" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAIAAAAAAAAQgAAAACgAAQAAABAAAAAAAAA=</HashCode>
+      <FileName>PlayerBuilder.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FightEnemy">
+    <Position X="6.75" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FightEnemy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="D20" Collapsed="true">
+    <Position X="12" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>D20.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DnDGame" Collapsed="true">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAgAAAAAAEDAAASAAAAAAAAAAAA=</HashCode>
+      <FileName>DnDGame.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DungeonMaster" Collapsed="true">
+    <Position X="6.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAIQAAAAgACIAAAABAAAQBAAACAAAAAAA=</HashCode>
+      <FileName>DungeonMaster.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IDice" Collapsed="true">
+    <Position X="12" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IDice.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Interactable">
+    <Position X="8" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAQAAAACIAAgAAAAAAIAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Interactable.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logger" Collapsed="true">
+    <Position X="7.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAwAAAAAAIAAAAAAAAAAABAAAAAAAAAAAAAAAAkAEg=</HashCode>
+      <FileName>Logger.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Object">
+    <Position X="10" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Object.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ObjectsFactory">
+    <Position X="12" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ObjectsFactory.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenChest">
+    <Position X="13" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAIAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>OpenChest.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenDoor">
+    <Position X="8.75" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAABAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>OpenDoor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Options" Collapsed="true">
+    <Position X="5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAGAAIEAAAACAAkAAAAAAAAAACCAAAABDgAw=</HashCode>
+      <FileName>Options.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerCharacter">
+    <Position X="4.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACEAACQAAEIAEACAAAAAAAAADAAACAAAgAAAAIAA=</HashCode>
+      <FileName>PlayerCharacter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ReadBook">
+    <Position X="11" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACACAAAIAAAA=</HashCode>
+      <FileName>ReadBook.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Room">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UAAAAAIAACEAAAAAABAAAAAAAQAEAEABCAAAAAAAAAA=</HashCode>
+      <FileName>Room.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scene">
+    <Position X="2.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAACAAAAAAAgAIAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Scene.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TakeObject">
+    <Position X="10" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEgAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>TakeObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InteractPerson">
+    <Position X="15" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAACAAAAAAIAAA=</HashCode>
+      <FileName>InteractPerson.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenPortal">
+    <Position X="12" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAACEAAAAAAAAA=</HashCode>
+      <FileName>OpenPortal.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NPC">
+    <Position X="6.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAABACAAAAgAAEAABAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>NPC.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyException" Collapsed="true">
+    <Position X="5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MyException.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
